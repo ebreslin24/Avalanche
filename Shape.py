@@ -1,3 +1,4 @@
+#LIFE IS COOL
 import pygame
 import random
 from Block import Block
